@@ -5,7 +5,7 @@
 1. First download the zip file from the above repo and extract it on your pc.
 2. After that extract the files and paste the `graphics.h` file  and the `winbgim.h` file in the folder `C:\Program Files (x86)\Dev-Cpp\MinGW64\include`.
 > [!NOTE]
-> The address `C:\Program Files (x86)\Dev-Cpp\MinGW64\include` is the default path for devcpp. You can have a different path if you want to
+> The address `C:\Program Files (x86)\Dev-Cpp\MinGW64\include` is the default path for devcpp. You can have a different path if you want,
 > just make sure to put the header files in `MinGw64\include\` folder.
 
 3. Now copy the `libbgi.a` to the `C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\` folder.
