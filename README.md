@@ -2,7 +2,7 @@
 ## These instructions are based on DEV-CPP IDE which you can download by [clicking here](https://sourceforge.net/projects/orwelldevcpp/files/latest/download)
 ## The instructions for codeblocks is given in the readme file in the zipped file.
 
-1. First download the zip file from the above repo and extract it on your pc.
+1. First download the  `drivedownloadzip` file from the above repo and extract it on your pc.
 2. After that extract the files and paste the `graphics.h` file  and the `winbgim.h` file in the folder `C:\Program Files (x86)\Dev-Cpp\MinGW64\include`.
 > [!NOTE]
 > The address `C:\Program Files (x86)\Dev-Cpp\MinGW64\include` is the default path for devcpp. You can have a different path if you want,
